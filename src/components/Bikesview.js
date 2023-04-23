@@ -1,20 +1,20 @@
-import {React , useEffect , useState} from 'react'
-import { useParams } from 'react-router-dom'
+import React  from 'react'
 import { Row } from 'react-bootstrap' 
 import Col from 'react-bootstrap/Col'
 import { ListGroup } from 'react-bootstrap'
 import OperatingHours from './OperatingHours'
-import Review from './review'
+import Review from './Review'
 import './Bikescard.css';
+import { useParams } from 'react-router-dom'
 
 
 
 function Bikesview(bikes) {
-const params = useParams()
+const params = useParams
 
-useEffect(()=>{
 
-},[])
+
+
 
 
   return (
