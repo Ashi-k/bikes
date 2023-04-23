@@ -1,0 +1,414 @@
+{
+  "bikes": [
+    {
+      "id": 1,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "New Model",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "excellent",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "excellent",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "excellent",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "excellent",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "excellent",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "excellent",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "excellent",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "excellent",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hero Splendor Plus",
+      "price": "Rs.72,076 - 74,396",
+      "photograph": "https://i.postimg.cc/x8czyDMh/hero-motocorp-splendor63fca3b428d2d.jpg",
+      "millege": "60 km",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "bike_type": "excellent",
+      "operating_hours": {
+        "Monday": "5:30 pm - 11:00 pm",
+        "Tuesday": "5:30 pm - 12:00 am",
+        "Wednesday": "5:30 pm - 12:00 am",
+        "Thursday": "5:30 pm - 12:00 am",
+        "Friday": "5:30 pm - 12:00 am",
+        "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+        "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2023",
+          "rating": 4.5,
+          "comments": "The new model is splendor+ which is too good because of it's black color. Look is very professional. This bike has low maintenance and it's resale value is too good. Mileage is approximately 65 to 70 km/l with good strength.. It's power in comparison to others is very good.It's body is too hard and easily available in market/showroom.Thank you."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2023",
+          "rating": 3.5,
+          "comments": "Excellent ,mind blowing. I like to ride this bike. I am well experience with this bike. This bike is very comfortable in riding. I am happy with this bike."
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2022",
+          "rating": 5,
+          "comments": "Splendor is a perfect bike for daily use. It is budget friendly. Comfort level of this bike is very good. Mileage of this bike is superb. Bike having good looks and amazing performance. Mantainnance cost of this bike is very low which is a good. This bike is lightweight, if you want a heavy bike , this bike is not for you. This bike is not suitable for long rides."
+        }
+      ]
+    }
+  ]
+}
