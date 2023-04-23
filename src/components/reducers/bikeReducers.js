@@ -1,6 +1,6 @@
-import { SUCCESS, FAIL } from "../../constants/restConstants"
+import { SUCCESS,FAIL } from "../constants/bikeConstants"
 
-export const bikeReducer = (state = { biketList: [] }, action) => {
+export const bikeReducer = (state = { bikeList: [] }, action) => {
     switch (action.type) {
         case SUCCESS:
             return {

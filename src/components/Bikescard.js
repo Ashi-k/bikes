@@ -7,7 +7,7 @@ import './Bikescard.css'
 function Bikescard(bikedata) {
   return (
     <>
-    <Link to={`./view-bikes/${bikedata.id}`} style={{textDecoration:'none',color:'black'}}>
+    <Link to={`./view-bikes/${bikedata.id}`} style={{textDecoration:'none'}}>
         <Card id='cal' style={{ width: '18rem' }}>
             <Card.Img variant="top" src={bikedata.photograph} />
             <Card.Body>

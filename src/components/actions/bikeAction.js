@@ -1,13 +1,14 @@
 import axios from "axios";
 import { SUCCESS, FAIL } from "../constants/bikeConstants";
-import { type } from "@testing-library/user-event/dist/type";
 
 
-export const bikeList = () => async (dispatch) => {
+
+ const bikeLists = () => async (dispatch) => {
 
     try {
-        const { data } = await axios.get('/bikes.json')
-        console.log(data.bikes);
+        const {data} = await axios.get('/bike.json')
+
+        
         dispatch(
             {
                 payload: data.bikes,
@@ -16,7 +17,7 @@ export const bikeList = () => async (dispatch) => {
         )
 
     }
-    catch (error) {
+    catch(error) {
 
         dispatch(
             {
@@ -26,3 +27,5 @@ export const bikeList = () => async (dispatch) => {
         )
     }
 }
+
+export default bikeLists
